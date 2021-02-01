@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/dirsouza/todo-list-app.git
+[submodule "api"]
+	path = api
+	url = https://github.com/dirsouza/todo-list-api.git
